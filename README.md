@@ -8,8 +8,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://lively-sand-0cdde6700.5.azurestaticapps.net/
 
-**project demo video link** -  https://drive.google.com/file/d/1oEMhO746lHUD11K-gHUaXMPwASY6-PTl/view?usp=sharing
-
+**project demo video link** -  https://drive.google.com/file/d/1UNpPitlizXZpDktCSGkmt2FBo8XP7pII/view?usp=sharing
 ## Azure technologies used for Project
 
 - Static web apps
